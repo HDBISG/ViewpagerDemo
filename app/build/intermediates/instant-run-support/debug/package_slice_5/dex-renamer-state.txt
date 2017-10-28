@@ -1,0 +1,4 @@
+#Sat Oct 28 08:39:12 SGT 2017
+base.0=/Users/ok/Documents/java/android/ViewpagerDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5
+renamed.0=classes.dex
+file.0=/Users/ok/Documents/java/android/ViewpagerDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex

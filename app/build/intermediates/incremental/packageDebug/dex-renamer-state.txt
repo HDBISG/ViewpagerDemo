@@ -1,0 +1,7 @@
+#Sat Oct 28 08:39:13 SGT 2017
+base.0=/Users/ok/Documents/java/android/ViewpagerDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_adc54265055bbc93bcb1fd99c47b3f9ba4e60892
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/ok/Documents/java/android/ViewpagerDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_eeaedbd027f95479ea35f2dfb4a0e7307a7aefe5/classes.dex
+base.1=/Users/ok/Documents/java/android/ViewpagerDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_eeaedbd027f95479ea35f2dfb4a0e7307a7aefe5
+file.0=/Users/ok/Documents/java/android/ViewpagerDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_adc54265055bbc93bcb1fd99c47b3f9ba4e60892/classes.dex

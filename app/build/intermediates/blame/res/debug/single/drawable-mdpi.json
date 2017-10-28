@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ok/Documents/java/android/ViewpagerDemo/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/ok/Documents/java/android/ViewpagerDemo/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ok/Documents/java/android/viewpagetest/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/ok/Documents/java/android/viewpagetest/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]
